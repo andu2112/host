@@ -1,0 +1,36 @@
+
+
+video{
+    border: 2em;
+    block-size: 10cm;
+    margin-right: 20cm;
+}
+
+.tenkai{
+    block-size: 20ch;
+    margin-top: right;
+}
+
+html, html body{
+    width: 100%;
+    min-width: 0 ;
+    max-width: 100 ;
+    overflow-x: hidden;
+    background-color: antiquewhite;
+}
+
+.nav-logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  
+}
+
+.nav-item {
+    color: #323f4b;
+    font-family: "Roboto";
+    
+}
+
+
